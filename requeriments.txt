@@ -1,1 +1,1 @@
-pytest==inventada
+libreria_inventada_12345
