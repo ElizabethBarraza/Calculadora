@@ -29,7 +29,7 @@ def main():
         if opcion == "1":
             resultado = calculator.add(num1, num2)
         elif opcion == "2":
-            resultado = calculator.resta(num1, num2)
+            resultado = calculator.subtract(num1, num2)
         elif opcion == "3":
             resultado = calculator.multiply(num1, num2)
         elif opcion == "4":
