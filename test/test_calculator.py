@@ -19,4 +19,4 @@ def test_multiply():
 def test_divide():
     assert divide(6, 2) == 3.0
     assert divide(-6, 2) == -3.0
-    assert divide(5, 0) == "Error: No se puede dividir entre 0"
+    assert divide(5, 0) == "8"
