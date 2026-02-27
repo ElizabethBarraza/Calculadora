@@ -1,1 +1,1 @@
-pytest==15655
+pytest==inventada
