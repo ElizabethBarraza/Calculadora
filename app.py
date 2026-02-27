@@ -31,7 +31,7 @@ def main():
         elif opcion == "2":
             resultado = calculator.subtract(num1, num2)
         elif opcion == "3":
-            resultado = calculator.multiply(num1, num2)
+            resultado = calculator.multiply(num1, num4, num6)
         elif opcion == "4":
             resultado = calculator.divide(num1, num2)
         else:
