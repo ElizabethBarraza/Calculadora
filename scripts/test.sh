@@ -1,0 +1,3 @@
+
+echo "Ejecutando pruebas..."
+pytest
